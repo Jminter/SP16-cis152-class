@@ -1,0 +1,29 @@
+div {
+	background-color: green;
+	margin: 5px;
+}
+
+div.container {
+	border: 1px solid black;
+}
+
+#myDiv {
+	color: blue;
+}
+
+/* multiple elements */
+div, h1 {
+	font-family: Courier New, Courier, monospace;
+}
+
+div h2 {
+	color: yellow;
+}
+
+.container #myDiv {
+	color: purple;
+}
+
+#myDiv h1 {
+	color: orange;
+}
